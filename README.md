@@ -1,5 +1,5 @@
 # Search-Engine-On-DSA-Questions
-DSA Search Engine Link: https://search-engine-on-dsa-questions.vercel.app/
+DSA Search Engine Link: https://search-engine-for-data-structure-an.vercel.app/
 
 ## Search Results:
 Search results on Binary Search:
